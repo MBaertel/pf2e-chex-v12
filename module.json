@@ -5,7 +5,7 @@
     "authors": [{ "name": "cedi" }],
     "version": "2.0.0",
     "compatibility": {
-        "minimum": "12.331",
+        "minimum": "12.330",
         "verified": "12.331",
         "maximum": "12"
     },
