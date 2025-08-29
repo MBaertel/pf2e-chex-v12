@@ -3,7 +3,7 @@
     "title": "PF2e cHex",
     "description": "Improved grid overlay",
     "authors": [{ "name": "cedi" }],
-    "version": "2.0.2",
+    "version": "2.0.0",
     "compatibility": {
         "minimum": "12.331",
         "verified": "12.331",
@@ -19,6 +19,6 @@
     ],
     "protected": false,
     "url": "https://github.com/Mbaertel/pf2e-chex-v12",
-    "download": "https://github.com/MBaertel/pf2e-chex-v12/archive/refs/tags/chex-v2.0.2.zip",
+    "download": "https://github.com/MBaertel/pf2e-chex-v12/archive/refs/tags/chex-v2.0.0.zip",
     "manifest": "https://raw.githubusercontent.com/MBaertel/pf2e-chex-v12/main/module.json"
 }
