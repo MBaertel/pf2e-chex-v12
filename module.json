@@ -3,7 +3,7 @@
     "title": "PF2e cHex",
     "description": "Improved grid overlay",
     "authors": [{ "name": "cedi" }],
-    "version": "2.0.0",
+    "version": "2.0.2",
     "compatibility": {
         "minimum": "12.331",
         "verified": "12.331",
