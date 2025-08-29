@@ -18,7 +18,7 @@
         }
     ],
     "protected": false,
-    "url": "https://github.com/Mbaertel/pf2e-chex",
+    "url": "https://github.com/Mbaertel/pf2e-chex-v12",
     "download": "https://github.com/MBaertel/pf2e-chex-v12/archive/refs/tags/chex-v2.0.0.zip",
-    "manifest": "https://raw.githubusercontent.com/MBaertel/pf2e-chex/main/module.json"
+    "manifest": "https://raw.githubusercontent.com/MBaertel/pf2e-chex-v12/main/module.json"
 }
